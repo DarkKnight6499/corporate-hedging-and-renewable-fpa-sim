@@ -1,0 +1,14 @@
+{
+  "var_unhedged_usd": 95707.90269499765,
+  "var_hedged_usd": 18865.158400858276,
+  "var_reduction_pct": 80.2888185096085,
+  "effectiveness_passes": 3,
+  "solar_ppa_usd_mwh": 89.88698873463946,
+  "budget_min_dscr": 1.2999999999999998,
+  "actual_min_dscr": 1.0726209987701756,
+  "actual_covenant_breaches": 1,
+  "actual_liquidity_shortfall_usd": 0.0,
+  "ending_debt_usd": 2.769520506262779e-07,
+  "actual_ebitda_variance_usd": -394579.13862337766,
+  "max_cash_residual_usd": 9.313225746154785e-10
+}

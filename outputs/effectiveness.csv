@@ -1,0 +1,4 @@
+risk,slope,r_squared,dollar_offset,passes_educational_screen
+copper_usd_per_tonne,1.0000000000000002,1,1,True
+eur_usd,0.99999999999999956,1,1,True
+floating_rate,1.0000000000000002,1,1,True

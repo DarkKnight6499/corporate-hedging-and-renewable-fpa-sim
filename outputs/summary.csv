@@ -1,0 +1,13 @@
+metric,value
+var_unhedged_usd,95707.902694997654
+var_hedged_usd,18865.158400858276
+var_reduction_pct,80.288818509608504
+effectiveness_passes,3
+solar_ppa_usd_mwh,89.886988734639459
+budget_min_dscr,1.2999999999999998
+actual_min_dscr,1.0726209987701756
+actual_covenant_breaches,1
+actual_liquidity_shortfall_usd,0
+ending_debt_usd,2.7695205062627792e-07
+actual_ebitda_variance_usd,-394579.13862337766
+max_cash_residual_usd,9.3132257461547852e-10
